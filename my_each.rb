@@ -8,7 +8,7 @@ def my_each(array) # put argument(s) here
     #binding.pry
   end
   array 
-  else return "Hey! No block was given!"
+  #else return "Hey! No block was given!"
   end
 end
 
